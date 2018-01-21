@@ -22,4 +22,4 @@ This was a practice assignment for a ReactJS Udemy course I took.
 - React ^16.0.0
 - react-bootstrap ^0.31.5
 - react-dom ^16.0.0
-- auth0-lock: "^10.23.1"
+- auth0-lock ^10.23.1
